@@ -1,5 +1,10 @@
 # EEG Driving Simulator Project – Digital Assets
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![OpenBCI](https://img.shields.io/badge/hardware-OpenBCI%20Ultracortex-orange)
+
 This repository contains digital files, scripts, tools, and documentation developed for a summer research project using the **OpenBCI Ultracortex Mark IV** EEG headset.  
 The project forms part of a wider study investigating EEG activity during driving simulation tasks.
 
