@@ -44,3 +44,10 @@ As the project progresses, new tools and results will be added.
 This repository is actively updated throughout the summer project.  
 Many tools are in early prototype stages and may change as the experimental workflow develops.
 
+## License
+
+The licensing for this project is currently undetermined.  
+Some components of this work relate to research with pending patents.  
+Until an official license is assigned, **no rights are granted for reuse, redistribution, or modification**.
+
+
